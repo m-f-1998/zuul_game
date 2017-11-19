@@ -1,27 +1,24 @@
-Project: zuul-better
+Project: Zuul-Better
 Authors: Michael Kölling and David J. Barnes
 
-This project is part of the material for the book
-
+This Project is Part of the Material from the Book:
    Objects First with Java - A Practical Introduction using BlueJ
    Fifth edition
    David J. Barnes and Michael Kölling
    Pearson Education, 2012
    
-This project is a simple framework for an adventure game. In this version,
-it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
+This Project is a Simple Framework for an Adventure Game. In this Version,
+it has a Few Rooms and the Ability for a Player to Walk between these Rooms.
 
-To start this application, create an instance of class "Game" and call its
-"play" method.
+To Start this Application, create an Instance of Class "Game" and call its
+"play" Method.
 
-This project was written as the starting point of a small Java project.
+This Project was Written as the Starting Point of a Small Java Project.
 
-The goal is to extend the game:
+The Goal is to Extend the Game:
 
-  - add items to rooms (items may have weight)
-  - add multiple players
-  - add commands (pick, drop, examine, read, ...)
-  - (anything you can think of, really...)
+  - Add Items to Rooms (Items may have Weight)
+  - Add Multiple Players
+  - Add Commands (Pick, Drop, Examine, Read, ...)
 
-Read chapter 7 of the book to get a detailed description of the project.
+Read Chapter 7 of the Book to get a Detailed Description of the Project.
